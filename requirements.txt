@@ -6,7 +6,7 @@ isort==5.5.3
 itsdangerous==0.24
 Jinja2==2.10
 lazy-object-proxy==1.4.3
-MarkupSafe==1.0
+MarkupSafe==1.1.1
 mccabe==0.6.1
 peewee==3.2.2
 psycopg2-binary==2.8.4
